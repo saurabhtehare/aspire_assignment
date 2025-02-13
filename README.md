@@ -1,4 +1,4 @@
-# aspire_assignment
+# aspireindia_assignment
 
 # Methodologies Used
 ### 1. Data Cleaning and Validation
